@@ -1,0 +1,9 @@
+#################
+## Project specific files
+#################
+
+## Ignore Temp and Log folder
+
+# User-specific files
+[Tt]emp/*
+[Ll]og/*
