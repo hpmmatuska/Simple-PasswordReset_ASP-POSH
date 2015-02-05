@@ -5,6 +5,6 @@
 ## Ignore Temp and Log folder
 
 # User-specific files
-[Tt]emp/*
-[Ll]og/*
-[Ii]mages/*
+PasswordReset/Temp/*
+PasswordReset/Log/*
+PasswordReset/Images/*
